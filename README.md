@@ -17,7 +17,7 @@ Installation
 2. Install dependencies: pip install pygame
 
 Usage
-1. Run the game: python fruit_catcher.py
+1. Run the game: python fruit_catching_game.py
 2. Use arrow keys to move and catch fruits.
 3. Aim for high scores!
 
