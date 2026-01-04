@@ -26,4 +26,5 @@ This PyGame-based application simulates a fruit-catching challenge with dynamic 
 3. Aim for high scores!
 
 ## License
-- MIT License
+
+MIT License
